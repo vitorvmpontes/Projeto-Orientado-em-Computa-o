@@ -1,6 +1,6 @@
 #Automação de Cadastro de Atividades com IA Generativa (myMobiConf)
 
-Este repositório contém o código, dataset e resultados do meu Trabalho de Conclusão de Curso (TCC) em Ciência da Computação pela Universidade Federal de Viçosa (UFV).
+Este repositório contém o artigo científico, resultante do meu Trabalho de Conclusão de Curso (TCC) em Ciência da Computação pela Universidade Federal de Viçosa (UFV).
 
 O projeto propõe e avalia um pipeline de Extração de Informação (EI) focado em automatizar a ingestão de cronogramas de eventos a partir de ficheiros não estruturados (PDF, HTML, Imagens e Planilhas). A solução foi projetada e integrada para resolver um estrangulamento operacional no sistema de gestão de eventos myMobiConf.
 
