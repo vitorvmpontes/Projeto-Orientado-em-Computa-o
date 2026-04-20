@@ -36,6 +36,9 @@ O pipeline de processamento funciona em duas fases principais:
 
 - Extração Semântica e Estruturação: O texto bruto é enviado ao LLM juntamente com um prompt altamente estruturado (utilizando Role Prompting e One-Shot Learning). O modelo interpreta o texto, extrai as entidades (Nome, Local, Datas, Descrição), aplica regras de negócio (ex: fuso horário UTC-3) e retorna um JSON válido pronto para o pré-preenchimento do formulário.
 
+<img width="6000" height="3375" alt="pipeline" src="https://github.com/user-attachments/assets/e8409328-9219-427b-bfed-ceb93cc489a5" />
+
+
 ##Resultados e Validação
 
 A solução foi validada utilizando um dataset de 18 programações de eventos reais (totalizando 324 atividades).
